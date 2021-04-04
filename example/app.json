@@ -1,0 +1,22 @@
+{
+  "name": "rn-shiva-dropdown-example",
+  "displayName": "RnShivaDropdown Example",
+  "expo": {
+    "name": "rn-shiva-dropdown-example",
+    "slug": "rn-shiva-dropdown-example",
+    "description": "Example app for rn-shiva-dropdown",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
