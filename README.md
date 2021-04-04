@@ -4,11 +4,6 @@ Beautiful dropdown component for react native, with search feature and focused o
 ## Screenshots
 ![Default variation](https://media.giphy.com/media/XTiFVDvUbEGKRoBbov/giphy.gif)
 ![Small variation](https://media.giphy.com/media/9KRGcDsmQ6h9pgb4eZ/giphy.gif)
-
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-
 ## Getting Started
 ### Installation
 #### via NPM
