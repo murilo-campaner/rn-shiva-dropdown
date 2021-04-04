@@ -2,8 +2,8 @@
 Beautiful dropdown component for react native, with search feature and focused on better user experience
 
 ## Screenshots
-![Default variation](https://www.giphy.com/gifs/XTiFVDvUbEGKRoBbov)
-![Small variation](https://www.giphy.com/gifs/9KRGcDsmQ6h9pgb4eZ)
+![Default variation](https://media.giphy.com/media/XTiFVDvUbEGKRoBbov/giphy.gif)
+![Small variation](https://media.giphy.com/media/9KRGcDsmQ6h9pgb4eZ/giphy.gif)
 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
